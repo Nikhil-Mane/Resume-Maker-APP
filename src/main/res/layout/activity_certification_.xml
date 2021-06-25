@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Education_activity"
+    android:orientation="vertical">
+    <include layout="@layout/normal_action_activity_bar"/>
+    <TextView
+        android:id="@+id/certifications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginBottom="10sp"
+        android:padding="15dp"
+        android:text="Certifications Details:"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/certifications_data1"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Name Of Certification Completed"
+        android:textSize="16sp"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/certifications_data2"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Name Of Certification Completed"
+        android:textSize="16sp"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/certifications_data3"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Name Of Certification Completed"
+        android:textSize="16sp"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/certifications_data4"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Name Of Certification Completed"
+        android:textSize="16sp"/>
+    <ImageButton
+        android:id="@+id/certifications_data_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:src="@drawable/add_icon"
+        />
+
+    <Button
+        android:id="@+id/activity_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:textSize="16sp"
+
+        />
+</LinearLayout>

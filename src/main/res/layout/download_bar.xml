@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:background="@color/purple_500">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10sp"
+            android:src="@drawable/back_button"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20sp"
+            android:layout_marginStart="30sp"
+            android:text="PDF VIEWER"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_marginLeft="30sp" />
+
+        <ImageView
+            android:id="@+id/download"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/download_button"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:paddingRight="10sp"
+            android:layout_alignParentRight="true" />
+</RelativeLayout>
+</RelativeLayout>

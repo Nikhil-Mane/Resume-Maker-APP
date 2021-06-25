@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RESUME_MAKER_APP</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="certification">Certification</string>
+    <string name="technology">Technology</string>
+    <string name="educational_info">Educational Info</string>
+    <string name="skills">Skills</string>
+    <string name="languages">Languages</string>
+    <string name="project">Project</string>
+    <string name="coding_languages">Coding Languages</string>
+    <string name="todo">TODO</string>
+    <string name="start_to_make_resume">Start to make Resume</string>
+    <string name="welcome_to_resume_maker_app">WELCOME TO RESUME MAKER APP</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="name">NAME:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="degree">Degree</string>
+    <string name="educational_information">Educational Information</string>
+    <string name="enter_the_name">Enter the Name</string>
+</resources>

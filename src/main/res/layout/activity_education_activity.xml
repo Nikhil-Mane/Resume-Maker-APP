@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Education_activity"
+    android:orientation="vertical">
+    <include layout="@layout/normal_action_activity_bar"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/education_name"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Your Education Degree"
+        android:textSize="16sp"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/college_name"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Your College Name"
+        android:textSize="16sp"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/year_passed"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Year Of Degree Completed"
+        android:textSize="16sp"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/marks_obtained"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:hint="Enter Your Marks "
+        android:textSize="16sp"/>
+    <ImageButton
+        android:id="@+id/image_edu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:src="@drawable/add_icon"
+
+        />
+    <Button
+        android:id="@+id/SAVE_dataintotextview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:textSize="16sp"
+        />
+
+</LinearLayout>
