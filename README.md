@@ -24,8 +24,8 @@ into **PDF** and save that pdf on internal storage.
 ### 7.Coding Info
 ![coding Info](https://github.com/Nikhil-Mane/Resume-Maker-APP/blob/main/ScreenShot/Coding%20info.jpg)
 ### 8.Project Info
-![project Info](https://github.com/Nikhil-Mane/Resume-Maker-APP/blob/main/ScreenShot/Resume%20Screenshot.jpg)
+![project Info](https://github.com/Nikhil-Mane/Resume-Maker-APP/blob/main/ScreenShot/project%20info.jpg)
 ### 9.Skills
 ![Skill](https://github.com/Nikhil-Mane/Resume-Maker-APP/blob/main/ScreenShot/skills%20info.jpg)
 ### 10.Resume Pdf
-![pdf](https://github.com/Nikhil-Mane/Resume-Maker-APP/blob/main/ScreenShot/project%20info.jpg)
+![pdf](https://github.com/Nikhil-Mane/Resume-Maker-APP/blob/main/ScreenShot/Resume%20Screenshot.jpg)
