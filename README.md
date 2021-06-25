@@ -9,5 +9,19 @@ into **PDF** and save that pdf on internal storage.
 ### Database:
 * Sharedpreferance
 ### Screenshot:
-1.First Page  
-![first page]()
+### 1.First Page
+![first page](https://github.com/Nikhil-Mane/Resume-Maker-APP/blob/main/Starting%20page%20of%20APP.jpg)
+### 2.Main Activity  Page
+![]()
+#### 3.Personal Information Page
+![]()
+#### 4.Educational Information Page
+![]()
+#### 5. Page
+![]()
+#### 1.First Page
+![]()
+#### 1.First Page
+![]()
+#### 1.First Page
+![]()
