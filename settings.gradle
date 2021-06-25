@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "RESUME_MAKER_APP"
